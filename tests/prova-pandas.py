@@ -6,3 +6,5 @@ dades = {
 }
 df = pd.DataFrame(dades)
 print("Superfície total:", df['superficie'].sum(), "km2")
+
+
